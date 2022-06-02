@@ -1,3 +1,6 @@
+//Bunica-Mihai Alexandru, 331AB
+/*link proiect:
+https://www.tinkercad.com/things/emjBc7O5fB4?sharecode=54AmckIVMHajJ2EJC6qegDjBCuWy2-V4Tkk58BPUGx0 */
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(12, NULL, 11, 10,9,8,7);
