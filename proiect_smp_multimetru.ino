@@ -28,8 +28,8 @@ float R1_ohm = 5000;
 float R2_ohm = 0;
 float R1_volt = 10000;
 float R2_volt = 1000;
-float R1_a = 50;
-float R2_a = 5;
+float R1_a = 45;
+float R2_a = 10;
 int metru = 0;
 bool switched = false;
 
